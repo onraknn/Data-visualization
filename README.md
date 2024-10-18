@@ -1,2 +1,2 @@
 # Data-visualization
-veri görselleştirme giris
+veri görselleştirme
